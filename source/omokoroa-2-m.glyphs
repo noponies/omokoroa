@@ -2,28 +2,8 @@
 .appVersion = "3436";
 .formatVersion = 3;
 DisplayStrings = (
-"HOHOHO
-HAHHAAH",
-"Ї",
-"Т",
-"ABSCDEFGHXHHIHOSHSHOSO SHSHS QWNXPIPSDILSDLJSLDJSYIYYIY
-AZXVBNMJHGSF
-pqipqia¥   ioP3eEC P3Eh×uNK¶~a: 
-b∂∞;:A/backslash ∫A%R@&¶§©®™°|¦AB†‡",
-U,
-"9",
-"−",
-"/K.ss01",
-e,
-c,
-t,
-"—",
-"¶",
-"€",
-"¥",
-j,
-"л",
-"м"
+"п",
+"ж"
 );
 axes = (
 {
@@ -35371,7 +35351,7 @@ unicode = 1105;
 {
 color = 5;
 glyphname = "zhe-cy";
-lastChange = "2026-06-30 03:23:02 +0000";
+lastChange = "2026-06-30 09:21:03 +0000";
 layers = (
 {
 anchors = (
@@ -35618,7 +35598,7 @@ nodes = (
 (492,259,o),
 (475,259,c),
 (472,242,l),
-(547,243,o),
+(547,242,o),
 (604,250,o),
 (612,153,cs),
 (614,131,o),
@@ -35639,7 +35619,7 @@ nodes = (
 (256,131,o),
 (258,153,cs),
 (266,250,o),
-(323,243,o),
+(323,242,o),
 (398,242,c),
 (395,259,l),
 (378,259,o),
@@ -35791,9 +35771,9 @@ closed = 1;
 nodes = (
 (795,30,l),
 (757,15,o),
-(747,17,o),
-(743,51,cs),
-(738,94,o),
+(737,17,o),
+(733,51,cs),
+(728,94,o),
 (756,149,o),
 (740,194,cs),
 (717,260,o),
@@ -35802,14 +35782,14 @@ nodes = (
 (563,264,o),
 (527,259,o),
 (510,259,c),
-(507,238,l),
-(582,237,o),
-(619,250,o),
+(507,241,l),
+(582,240,o),
+(627,250,o),
 (627,153,cs),
-(629,131,o),
+(627,116,o),
 (624,66,o),
 (639,34,cs),
-(661,-16,o),
+(662,-15,o),
 (761,-16,o),
 (805,10,c)
 );
@@ -35818,14 +35798,14 @@ nodes = (
 closed = 1;
 nodes = (
 (144,-16,o),
-(244,-16,o),
+(243,-15,o),
 (266,34,cs),
 (281,66,o),
-(276,131,o),
+(278,118,o),
 (278,153,cs),
-(286,250,o),
-(323,237,o),
-(398,238,c),
+(278,250,o),
+(323,240,o),
+(398,241,c),
 (395,259,l),
 (378,259,o),
 (342,264,o),
@@ -35834,9 +35814,9 @@ nodes = (
 (188,260,o),
 (165,194,cs),
 (149,149,o),
-(167,94,o),
-(162,51,cs),
-(158,17,o),
+(177,94,o),
+(172,51,cs),
+(168,17,o),
 (148,15,o),
 (110,30,c),
 (100,10,l)
@@ -35976,9 +35956,9 @@ closed = 1;
 nodes = (
 (811,33,l),
 (773,18,o),
-(768,17,o),
-(764,51,cs),
-(759,94,o),
+(740,17,o),
+(744,51,cs),
+(749,94,o),
 (773,149,o),
 (757,194,cs),
 (734,260,o),
@@ -35987,11 +35967,11 @@ nodes = (
 (580,264,o),
 (544,259,o),
 (527,259,c),
-(524,237,l),
-(599,234,o),
-(626,250,o),
+(524,241,l),
+(599,241,o),
+(636,250,o),
 (634,153,cs),
-(636,131,o),
+(634,131,o),
 (634,66,o),
 (649,34,cs),
 (671,-16,o),
@@ -36006,11 +35986,11 @@ nodes = (
 (251,-16,o),
 (273,34,cs),
 (288,66,o),
-(286,131,o),
+(288,131,o),
 (288,153,cs),
-(296,250,o),
-(323,234,o),
-(398,237,c),
+(286,250,o),
+(323,241,o),
+(398,241,c),
 (395,259,l),
 (378,259,o),
 (342,264,o),
@@ -36019,9 +35999,9 @@ nodes = (
 (188,260,o),
 (165,194,cs),
 (149,149,o),
-(163,94,o),
-(158,51,cs),
-(154,17,o),
+(173,94,o),
+(178,51,cs),
+(182,17,o),
 (149,18,o),
 (111,33,c),
 (100,10,l)
@@ -36547,70 +36527,66 @@ unicode = 1079;
 {
 color = 5;
 glyphname = "ii-cy";
-lastChange = "2026-06-30 03:34:49 +0000";
+lastChange = "2026-06-30 08:48:11 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottomright;
-pos = (684,0);
+pos = (671,0);
 },
 {
 name = top;
-pos = (350,500);
+pos = (337,500);
 }
 );
 hints = (
 {
-name = _corner.leftserif;
-options = 1;
-origin = (0,2);
-scale = (-0.7,1);
+name = _corner.leftserifLC;
+origin = (2,1);
 type = Corner;
 },
 {
-name = _corner.leftserif;
-origin = (0,3);
-scale = (0.7,1);
-type = Corner;
-},
-{
-name = _corner.leftserif;
-options = 1;
-origin = (0,0);
-scale = (-0.7,1);
-type = Corner;
-},
-{
-name = _corner.leftserif;
-origin = (0,1);
-scale = (0.7,1);
-type = Corner;
-},
-{
-name = _corner.leftserif;
-options = 1;
-origin = (2,2);
-scale = (-0.7,1);
-type = Corner;
-},
-{
-name = _corner.leftserif;
-origin = (2,3);
-scale = (0.7,1);
-type = Corner;
-},
-{
-name = _corner.leftserif;
+name = _corner.leftserifLC;
 options = 1;
 origin = (2,0);
-scale = (-0.7,1);
+scale = (-1,1);
 type = Corner;
 },
 {
-name = _corner.leftserif;
-origin = (2,1);
-scale = (0.7,1);
+name = _corner.leftserifLC;
+origin = (2,3);
+type = Corner;
+},
+{
+name = _corner.leftserifLC;
+options = 1;
+origin = (2,2);
+scale = (-1,1);
+type = Corner;
+},
+{
+name = _corner.leftserifLC;
+options = 1;
+origin = (0,2);
+scale = (-1,1);
+type = Corner;
+},
+{
+name = _corner.leftserifLC;
+origin = (0,3);
+type = Corner;
+},
+{
+name = _corner.leftserifLC;
+options = 1;
+origin = (0,0);
+scale = (-1,1);
+type = Corner;
+},
+{
+name = _corner.leftserifLC;
+origin = (0,1);
 type = Corner;
 }
 );
@@ -36619,10 +36595,10 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(235,0,l),
-(235,500,l),
-(163,500,l),
-(163,0,l)
+(222,0,l),
+(222,500,l),
+(150,500,l),
+(150,0,l)
 );
 },
 {
@@ -36633,84 +36609,80 @@ strokeWidth = 10;
 };
 closed = 0;
 nodes = (
-(477,421,l),
-(218,66,l)
+(464,421,l),
+(205,66,l)
 );
 },
 {
 closed = 1;
 nodes = (
-(535,0,l),
-(535,500,l),
-(467,500,l),
-(467,0,l)
+(522,0,l),
+(522,500,l),
+(454,500,l),
+(454,0,l)
 );
 }
 );
-width = 698;
+width = 672;
 },
 {
 anchors = (
 {
 name = bottomright;
-pos = (739,0);
+pos = (726,0);
 },
 {
 name = top;
-pos = (379,500);
+pos = (366,500);
 }
 );
 hints = (
 {
-name = _corner.leftserif;
-options = 1;
-origin = (0,2);
-scale = (-0.7,1);
-type = Corner;
-},
-{
-name = _corner.leftserif;
-origin = (0,3);
-scale = (0.7,1);
-type = Corner;
-},
-{
-name = _corner.leftserif;
-options = 1;
-origin = (0,0);
-scale = (-0.7,1);
-type = Corner;
-},
-{
-name = _corner.leftserif;
-origin = (0,1);
-scale = (0.7,1);
-type = Corner;
-},
-{
-name = _corner.leftserif;
-options = 1;
-origin = (2,2);
-scale = (-0.7,1);
-type = Corner;
-},
-{
-name = _corner.leftserif;
-origin = (2,3);
-scale = (0.7,1);
-type = Corner;
-},
-{
-name = _corner.leftserif;
+name = _corner.leftserifLC;
 options = 1;
 origin = (2,0);
-scale = (-0.7,1);
+scale = (-1,1);
 type = Corner;
 },
 {
-name = _corner.leftserif;
+name = _corner.leftserifLC;
 origin = (2,1);
-scale = (0.7,1);
+type = Corner;
+},
+{
+name = _corner.leftserifLC;
+options = 1;
+origin = (2,2);
+scale = (-1,1);
+type = Corner;
+},
+{
+name = _corner.leftserifLC;
+origin = (2,3);
+type = Corner;
+},
+{
+name = _corner.leftserifLC;
+options = 1;
+origin = (0,0);
+scale = (-1,1);
+type = Corner;
+},
+{
+name = _corner.leftserifLC;
+origin = (0,1);
+type = Corner;
+},
+{
+name = _corner.leftserifLC;
+options = 1;
+origin = (0,2);
+scale = (-1,1);
+type = Corner;
+},
+{
+name = _corner.leftserifLC;
+origin = (0,3);
 type = Corner;
 }
 );
@@ -36719,10 +36691,10 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(275,0,l),
-(275,500,l),
-(163,500,l),
-(163,0,l)
+(262,0,l),
+(262,500,l),
+(150,500,l),
+(150,0,l)
 );
 },
 {
@@ -36732,84 +36704,80 @@ strokeWidth = 15;
 };
 closed = 0;
 nodes = (
-(509,440,l),
-(252,59,l)
+(496,440,l),
+(239,59,l)
 );
 },
 {
 closed = 1;
 nodes = (
-(595,0,l),
-(595,500,l),
-(487,500,l),
-(487,0,l)
+(582,0,l),
+(582,500,l),
+(474,500,l),
+(474,0,l)
 );
 }
 );
-width = 758;
+width = 732;
 },
 {
 anchors = (
 {
 name = bottomright;
-pos = (784,0);
+pos = (772,0);
 },
 {
 name = top;
-pos = (404,500);
+pos = (392,500);
 }
 );
 hints = (
 {
-name = _corner.leftserif;
-options = 1;
-origin = (0,2);
-scale = (-0.7,1);
-type = Corner;
-},
-{
-name = _corner.leftserif;
-origin = (0,3);
-scale = (0.7,1);
-type = Corner;
-},
-{
-name = _corner.leftserif;
-options = 1;
-origin = (2,2);
-scale = (-0.7,1);
-type = Corner;
-},
-{
-name = _corner.leftserif;
-origin = (2,3);
-scale = (0.7,1);
-type = Corner;
-},
-{
-name = _corner.leftserif;
-options = 1;
-origin = (0,0);
-scale = (-0.7,1);
-type = Corner;
-},
-{
-name = _corner.leftserif;
-origin = (0,1);
-scale = (0.7,1);
-type = Corner;
-},
-{
-name = _corner.leftserif;
+name = _corner.leftserifLC;
 options = 1;
 origin = (2,0);
-scale = (-0.7,1);
+scale = (-1,1);
 type = Corner;
 },
 {
-name = _corner.leftserif;
+name = _corner.leftserifLC;
 origin = (2,1);
-scale = (0.7,1);
+type = Corner;
+},
+{
+name = _corner.leftserifLC;
+options = 1;
+origin = (2,2);
+scale = (-1,1);
+type = Corner;
+},
+{
+name = _corner.leftserifLC;
+origin = (2,3);
+type = Corner;
+},
+{
+name = _corner.leftserifLC;
+options = 1;
+origin = (0,0);
+scale = (-1,1);
+type = Corner;
+},
+{
+name = _corner.leftserifLC;
+origin = (0,1);
+type = Corner;
+},
+{
+name = _corner.leftserifLC;
+options = 1;
+origin = (0,2);
+scale = (-1,1);
+type = Corner;
+},
+{
+name = _corner.leftserifLC;
+origin = (0,3);
 type = Corner;
 }
 );
@@ -36818,10 +36786,10 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(318,0,l),
-(318,500,l),
-(162,500,l),
-(162,0,l)
+(306,0,l),
+(306,500,l),
+(150,500,l),
+(150,0,l)
 );
 },
 {
@@ -36831,84 +36799,80 @@ strokeWidth = 20;
 };
 closed = 0;
 nodes = (
-(539,459,l),
-(280,44,l)
+(527,459,l),
+(268,44,l)
 );
 },
 {
 closed = 1;
 nodes = (
-(647,0,l),
-(647,500,l),
-(499,500,l),
-(499,0,l)
+(635,0,l),
+(635,500,l),
+(487,500,l),
+(487,0,l)
 );
 }
 );
-width = 809;
+width = 785;
 },
 {
 anchors = (
 {
 name = bottomright;
-pos = (807,0);
+pos = (796,0);
 },
 {
 name = top;
-pos = (416,500);
+pos = (405,500);
 }
 );
 hints = (
 {
-name = _corner.leftserif;
-options = 1;
-origin = (0,2);
-scale = (-0.7,1);
-type = Corner;
-},
-{
-name = _corner.leftserif;
-origin = (0,3);
-scale = (0.7,1);
-type = Corner;
-},
-{
-name = _corner.leftserif;
-options = 1;
-origin = (0,0);
-scale = (-0.7,1);
-type = Corner;
-},
-{
-name = _corner.leftserif;
-origin = (0,1);
-scale = (0.7,1);
-type = Corner;
-},
-{
-name = _corner.leftserif;
-options = 1;
-origin = (2,2);
-scale = (-0.7,1);
-type = Corner;
-},
-{
-name = _corner.leftserif;
-origin = (2,3);
-scale = (0.7,1);
-type = Corner;
-},
-{
-name = _corner.leftserif;
+name = _corner.leftserifLC;
 options = 1;
 origin = (2,0);
-scale = (-0.7,1);
+scale = (-1,1);
 type = Corner;
 },
 {
-name = _corner.leftserif;
+name = _corner.leftserifLC;
 origin = (2,1);
-scale = (0.7,1);
+type = Corner;
+},
+{
+name = _corner.leftserifLC;
+options = 1;
+origin = (2,2);
+scale = (-1,1);
+type = Corner;
+},
+{
+name = _corner.leftserifLC;
+origin = (2,3);
+type = Corner;
+},
+{
+name = _corner.leftserifLC;
+options = 1;
+origin = (0,0);
+scale = (-1,1);
+type = Corner;
+},
+{
+name = _corner.leftserifLC;
+origin = (0,1);
+type = Corner;
+},
+{
+name = _corner.leftserifLC;
+options = 1;
+origin = (0,2);
+scale = (-1,1);
+type = Corner;
+},
+{
+name = _corner.leftserifLC;
+origin = (0,3);
 type = Corner;
 }
 );
@@ -36917,10 +36881,10 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(338,0,l),
-(338,500,l),
-(161,500,l),
-(161,0,l)
+(327,0,l),
+(327,500,l),
+(150,500,l),
+(150,0,l)
 );
 },
 {
@@ -36931,21 +36895,21 @@ strokeWidth = 22.5;
 };
 closed = 0;
 nodes = (
-(553,469,l),
-(294,38,l)
+(542,469,l),
+(283,38,l)
 );
 },
 {
 closed = 1;
 nodes = (
-(673,0,l),
-(673,500,l),
-(505,500,l),
-(505,0,l)
+(662,0,l),
+(662,500,l),
+(494,500,l),
+(494,0,l)
 );
 }
 );
-width = 834;
+width = 812;
 }
 );
 metricLeft = "=100";
@@ -36955,7 +36919,7 @@ unicode = 1080;
 {
 color = 5;
 glyphname = "iishort-cy";
-lastChange = "2026-06-29 01:35:11 +0000";
+lastChange = "2026-06-30 08:48:13 +0000";
 layers = (
 {
 layerId = "E5DC9139-DBE8-45F6-BCD0-0641ED917C2C";
@@ -36964,11 +36928,11 @@ shapes = (
 ref = "ii-cy";
 },
 {
-pos = (167,0);
+pos = (154,0);
 ref = "brevecomb-cy";
 }
 );
-width = 698;
+width = 672;
 },
 {
 layerId = "2F0BCB80-3430-4FA1-A4A3-7C385E8DAA98";
@@ -36977,11 +36941,11 @@ shapes = (
 ref = "ii-cy";
 },
 {
-pos = (196,0);
+pos = (183,0);
 ref = "brevecomb-cy";
 }
 );
-width = 758;
+width = 732;
 },
 {
 layerId = m01;
@@ -36990,11 +36954,11 @@ shapes = (
 ref = "ii-cy";
 },
 {
-pos = (221,0);
+pos = (209,0);
 ref = "brevecomb-cy";
 }
 );
-width = 809;
+width = 785;
 },
 {
 layerId = "DFBD2966-8600-4091-87AD-36DB30ECE1CF";
@@ -37003,11 +36967,11 @@ shapes = (
 ref = "ii-cy";
 },
 {
-pos = (233,0);
+pos = (222,0);
 ref = "brevecomb-cy";
 }
 );
-width = 834;
+width = 812;
 }
 );
 unicode = 1081;
@@ -37801,52 +37765,45 @@ metricRight = "=100";
 unicode = 1083;
 },
 {
-color = 5;
+color = 9;
 glyphname = "em-cy";
-lastChange = "2026-06-30 03:41:25 +0000";
+lastChange = "2026-06-30 08:54:17 +0000";
 layers = (
 {
 hints = (
 {
-name = _corner.leftserif;
-origin = (0,11);
-type = Corner;
-},
-{
-name = _corner.leftserif;
+name = _corner.leftserifLC;
 options = 1;
-origin = (0,12);
+origin = (0,5);
 scale = (-1,1);
 type = Corner;
 },
 {
-name = _corner.leftserif;
-origin = (0,4);
-type = Corner;
-},
-{
-name = _corner.leftserif;
-options = 1;
-origin = (0,5);
-scale = (1,-1);
-type = Corner;
-},
-{
-name = _corner.leftserif;
+name = _corner.leftserifLC;
 origin = (0,6);
 type = Corner;
 },
 {
-name = _corner.leftserif;
+name = _corner.leftserifLC;
+origin = (0,4);
+type = Corner;
+},
+{
+name = _corner.leftserifLC;
 options = 1;
-origin = (0,7);
+origin = (0,10);
 scale = (-1,1);
 type = Corner;
 },
 {
-name = _corner.leftserif;
+name = _corner.leftserifLC;
+origin = (0,11);
+type = Corner;
+},
+{
+name = _corner.leftserifLC;
 options = 1;
-origin = (0,10);
+origin = (0,12);
 scale = (-1,1);
 type = Corner;
 }
@@ -37882,43 +37839,36 @@ pos = (471,385);
 );
 hints = (
 {
-name = _corner.leftserif;
-origin = (0,11);
-type = Corner;
-},
-{
-name = _corner.leftserif;
+name = _corner.leftserifLC;
 options = 1;
 origin = (0,5);
 scale = (-1,1);
 type = Corner;
 },
 {
-name = _corner.leftserif;
-origin = (0,4);
-type = Corner;
-},
-{
-name = _corner.leftserif;
+name = _corner.leftserifLC;
 origin = (0,6);
 type = Corner;
 },
 {
-name = _corner.leftserif;
-options = 1;
-origin = (0,7);
-scale = (-1,1);
+name = _corner.leftserifLC;
+origin = (0,4);
 type = Corner;
 },
 {
-name = _corner.leftserif;
+name = _corner.leftserifLC;
 options = 1;
 origin = (0,10);
 scale = (-1,1);
 type = Corner;
 },
 {
-name = _corner.leftserif;
+name = _corner.leftserifLC;
+origin = (0,11);
+type = Corner;
+},
+{
+name = _corner.leftserifLC;
 options = 1;
 origin = (0,12);
 scale = (-1,1);
@@ -37938,7 +37888,7 @@ nodes = (
 (779,0,l),
 (779,500,l),
 (661,500,l),
-(506,108,l),
+(500,96,l),
 (314,500,l),
 (190,500,l),
 (190,0,l),
@@ -37996,46 +37946,39 @@ place = (40,93);
 type = Stem;
 },
 {
-name = _corner.leftserif;
-origin = (0,11);
-type = Corner;
-},
-{
-name = _corner.leftserif;
+name = _corner.leftserifLC;
 options = 1;
 origin = (0,12);
 scale = (-1,1);
 type = Corner;
 },
 {
-name = _corner.leftserif;
-origin = (0,4);
+name = _corner.leftserifLC;
+origin = (0,11);
 type = Corner;
 },
 {
-name = _corner.leftserif;
-options = 2;
-origin = (0,5);
-scale = (-1,1);
-type = Corner;
-},
-{
-name = _corner.leftserif;
+name = _corner.leftserifLC;
 options = 1;
 origin = (0,10);
 scale = (-1,1);
 type = Corner;
 },
 {
-name = _corner.leftserif;
+name = _corner.leftserifLC;
+options = 1;
+origin = (0,5);
+scale = (-1,1);
+type = Corner;
+},
+{
+name = _corner.leftserifLC;
 origin = (0,6);
 type = Corner;
 },
 {
-name = _corner.leftserif;
-options = 1;
-origin = (0,7);
-scale = (-1,1);
+name = _corner.leftserifLC;
+origin = (0,4);
 type = Corner;
 }
 );
@@ -38052,8 +37995,8 @@ nodes = (
 (804,0,l),
 (804,500,l),
 (644,500,l),
-(523,160,l),
-(355,500,l),
+(514,135,l),
+(345,500,l),
 (188,500,l),
 (188,0,l),
 (206,0,l)
@@ -38084,13 +38027,6 @@ type = Corner;
 {
 name = _corner.leftserifLC;
 options = 1;
-origin = (0,7);
-scale = (-1,1);
-type = Corner;
-},
-{
-name = _corner.leftserifLC;
-options = 1;
 origin = (0,12);
 scale = (-1,1);
 type = Corner;
@@ -38113,19 +38049,19 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(208,476,l),
+(218,476,l),
 (444,0,l),
 (489,0,l),
 (650,478,l),
 (649,0,l),
-(817,0,l),
-(817,500,l),
+(807,0,l),
+(807,500,l),
 (636,500,l),
-(533,185,l),
-(376,500,l),
-(187,500,l),
-(187,0,l),
-(207,0,l)
+(522,152,l),
+(366,500,l),
+(197,500,l),
+(197,0,l),
+(217,0,l)
 );
 }
 );
@@ -38137,66 +38073,62 @@ unicode = 1084;
 {
 color = 5;
 glyphname = "en-cy";
-lastChange = "2026-06-29 01:34:54 +0000";
+lastChange = "2026-06-30 08:57:01 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottomright;
-pos = (790,0);
+pos = (777,0);
 }
 );
 hints = (
 {
-name = _corner.leftserif;
+name = _corner.leftserifLC;
 options = 1;
 origin = (0,0);
-scale = (-0.7,1);
+scale = (-1,1);
 type = Corner;
 },
 {
-name = _corner.leftserif;
+name = _corner.leftserifLC;
 origin = (0,1);
-scale = (0.7,1);
 type = Corner;
 },
 {
-name = _corner.leftserif;
+name = _corner.leftserifLC;
 options = 1;
 origin = (0,2);
-scale = (-0.7,1);
+scale = (-1,1);
 type = Corner;
 },
 {
-name = _corner.leftserif;
+name = _corner.leftserifLC;
 origin = (0,3);
-scale = (0.7,1);
 type = Corner;
 },
 {
-name = _corner.leftserif;
+name = _corner.leftserifLC;
 options = 1;
 origin = (1,0);
-scale = (-0.7,1);
+scale = (-1,1);
 type = Corner;
 },
 {
-name = _corner.leftserif;
+name = _corner.leftserifLC;
 origin = (1,1);
-scale = (0.7,1);
 type = Corner;
 },
 {
-name = _corner.leftserif;
+name = _corner.leftserifLC;
 options = 1;
 origin = (1,2);
-scale = (-0.7,1);
+scale = (-1,1);
 type = Corner;
 },
 {
-name = _corner.leftserif;
+name = _corner.leftserifLC;
 origin = (1,3);
-scale = (0.7,1);
 type = Corner;
 }
 );
@@ -38205,91 +38137,87 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(621,0,l),
-(621,499,l),
-(553,499,l),
-(553,0,l)
+(608,0,l),
+(608,499,l),
+(540,499,l),
+(540,0,l)
 );
 },
 {
 closed = 1;
 nodes = (
-(231,0,l),
-(231,499,l),
-(163,499,l),
-(163,0,l)
+(218,0,l),
+(218,499,l),
+(150,499,l),
+(150,0,l)
 );
 },
 {
 closed = 1;
 nodes = (
-(553,241,l),
-(553,251,l),
-(231,251,l),
-(231,241,l)
+(540,241,l),
+(540,251,l),
+(218,251,l),
+(218,241,l)
 );
 }
 );
-width = 784;
+width = 758;
 },
 {
 anchors = (
 {
 name = bottomright;
-pos = (810,0);
+pos = (797,0);
 }
 );
 hints = (
 {
-name = _corner.leftserif;
+name = _corner.leftserifLC;
 options = 1;
 origin = (0,0);
-scale = (-0.7,1);
+scale = (-1,1);
 type = Corner;
 },
 {
-name = _corner.leftserif;
+name = _corner.leftserifLC;
 origin = (0,1);
-scale = (0.7,1);
 type = Corner;
 },
 {
-name = _corner.leftserif;
+name = _corner.leftserifLC;
 options = 1;
 origin = (0,2);
-scale = (-0.7,1);
+scale = (-1,1);
 type = Corner;
 },
 {
-name = _corner.leftserif;
+name = _corner.leftserifLC;
 origin = (0,3);
-scale = (0.7,1);
 type = Corner;
 },
 {
-name = _corner.leftserif;
+name = _corner.leftserifLC;
 options = 1;
 origin = (1,0);
-scale = (-0.7,1);
+scale = (-1,1);
 type = Corner;
 },
 {
-name = _corner.leftserif;
+name = _corner.leftserifLC;
 origin = (1,1);
-scale = (0.7,1);
 type = Corner;
 },
 {
-name = _corner.leftserif;
+name = _corner.leftserifLC;
 options = 1;
 origin = (1,2);
-scale = (-0.7,1);
+scale = (-1,1);
 type = Corner;
 },
 {
-name = _corner.leftserif;
+name = _corner.leftserifLC;
 origin = (1,3);
-scale = (0.7,1);
 type = Corner;
 }
 );
@@ -38298,43 +38226,43 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(641,0,l),
-(641,500,l),
-(533,500,l),
-(533,0,l)
+(628,0,l),
+(628,500,l),
+(520,500,l),
+(520,0,l)
 );
 },
 {
 closed = 1;
 nodes = (
-(271,0,l),
-(271,500,l),
-(163,500,l),
-(163,0,l)
+(258,0,l),
+(258,500,l),
+(150,500,l),
+(150,0,l)
 );
 },
 {
 closed = 1;
 nodes = (
-(543,238,l),
-(543,253,l),
-(261,253,l),
-(261,238,l)
+(530,238,l),
+(530,253,l),
+(248,253,l),
+(248,238,l)
 );
 }
 );
-width = 804;
+width = 778;
 },
 {
 anchors = (
 {
 name = bottomright;
-pos = (839,0);
+pos = (827,0);
 }
 );
 guides = (
 {
-pos = (430,246);
+pos = (418,246);
 }
 );
 hints = (
@@ -38370,55 +38298,51 @@ place = (138,148);
 type = Stem;
 },
 {
-name = _corner.leftserif;
+name = _corner.leftserifLC;
 options = 1;
 origin = (0,0);
-scale = (-0.7,1);
+scale = (-1,1);
 type = Corner;
 },
 {
-name = _corner.leftserif;
+name = _corner.leftserifLC;
 origin = (0,1);
-scale = (0.7,1);
 type = Corner;
 },
 {
-name = _corner.leftserif;
+name = _corner.leftserifLC;
 options = 1;
 origin = (0,2);
-scale = (-0.7,1);
+scale = (-1,1);
 type = Corner;
 },
 {
-name = _corner.leftserif;
+name = _corner.leftserifLC;
 origin = (0,3);
-scale = (0.7,1);
 type = Corner;
 },
 {
-name = _corner.leftserif;
+name = _corner.leftserifLC;
 options = 1;
 origin = (1,0);
-scale = (-0.7,1);
+scale = (-1,1);
 type = Corner;
 },
 {
-name = _corner.leftserif;
+name = _corner.leftserifLC;
 origin = (1,1);
-scale = (0.7,1);
 type = Corner;
 },
 {
-name = _corner.leftserif;
+name = _corner.leftserifLC;
 options = 1;
 origin = (1,2);
-scale = (-0.7,1);
+scale = (-1,1);
 type = Corner;
 },
 {
-name = _corner.leftserif;
+name = _corner.leftserifLC;
 origin = (1,3);
-scale = (0.7,1);
 type = Corner;
 }
 );
@@ -38427,91 +38351,87 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(670,0,l),
-(670,500,l),
-(522,500,l),
-(522,0,l)
+(658,0,l),
+(658,500,l),
+(510,500,l),
+(510,0,l)
 );
 },
 {
 closed = 1;
 nodes = (
-(310,0,l),
-(310,500,l),
-(162,500,l),
-(162,0,l)
+(298,0,l),
+(298,500,l),
+(150,500,l),
+(150,0,l)
 );
 },
 {
 closed = 1;
 nodes = (
-(547,238,l),
-(547,253,l),
-(285,253,l),
-(285,238,l)
+(535,238,l),
+(535,253,l),
+(273,253,l),
+(273,238,l)
 );
 }
 );
-width = 832;
+width = 808;
 },
 {
 anchors = (
 {
 name = bottomright;
-pos = (851,0);
+pos = (840,0);
 }
 );
 hints = (
 {
-name = _corner.leftserif;
+name = _corner.leftserifLC;
 options = 1;
 origin = (0,0);
-scale = (-0.7,1);
+scale = (-1,1);
 type = Corner;
 },
 {
-name = _corner.leftserif;
+name = _corner.leftserifLC;
 origin = (0,1);
-scale = (0.7,1);
 type = Corner;
 },
 {
-name = _corner.leftserif;
+name = _corner.leftserifLC;
 options = 1;
 origin = (0,2);
-scale = (-0.7,1);
+scale = (-1,1);
 type = Corner;
 },
 {
-name = _corner.leftserif;
+name = _corner.leftserifLC;
 origin = (0,3);
-scale = (0.7,1);
 type = Corner;
 },
 {
-name = _corner.leftserif;
+name = _corner.leftserifLC;
 options = 1;
 origin = (1,0);
-scale = (-0.7,1);
+scale = (-1,1);
 type = Corner;
 },
 {
-name = _corner.leftserif;
+name = _corner.leftserifLC;
 origin = (1,1);
-scale = (0.7,1);
 type = Corner;
 },
 {
-name = _corner.leftserif;
+name = _corner.leftserifLC;
 options = 1;
 origin = (1,2);
-scale = (-0.7,1);
+scale = (-1,1);
 type = Corner;
 },
 {
-name = _corner.leftserif;
+name = _corner.leftserifLC;
 origin = (1,3);
-scale = (0.7,1);
 type = Corner;
 }
 );
@@ -38520,32 +38440,32 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(682,0,l),
-(682,500,l),
-(514,500,l),
-(514,0,l)
+(671,0,l),
+(671,500,l),
+(503,500,l),
+(503,0,l)
 );
 },
 {
 closed = 1;
 nodes = (
-(329,0,l),
-(329,500,l),
-(161,500,l),
-(161,0,l)
+(318,0,l),
+(318,500,l),
+(150,500,l),
+(150,0,l)
 );
 },
 {
 closed = 1;
 nodes = (
-(546,238,l),
-(546,253,l),
-(297,253,l),
-(297,238,l)
+(535,238,l),
+(535,253,l),
+(286,253,l),
+(286,238,l)
 );
 }
 );
-width = 843;
+width = 821;
 }
 );
 metricLeft = "=100";
@@ -38623,53 +38543,50 @@ unicode = 1086;
 {
 color = 5;
 glyphname = "pe-cy";
-lastChange = "2026-06-29 01:34:54 +0000";
+lastChange = "2026-06-30 09:00:43 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottomright;
-pos = (714,0);
+pos = (688,0);
 }
 );
 hints = (
 {
-name = _corner.leftserif;
-options = 1;
-origin = (1,2);
-scale = (-0.7,1);
-type = Corner;
-},
-{
-name = _corner.leftserif;
-origin = (1,3);
-scale = (0.7,1);
-type = Corner;
-},
-{
-name = _corner.leftserif;
-options = 1;
-origin = (1,0);
-scale = (-0.7,1);
-type = Corner;
-},
-{
-name = _corner.leftserif;
+name = _corner.leftserifLC;
 options = 1;
 origin = (0,0);
-scale = (-0.7,1);
+scale = (-1,1);
 type = Corner;
 },
 {
-name = _corner.leftserif;
+name = _corner.leftserifLC;
 origin = (0,1);
-scale = (0.7,1);
 type = Corner;
 },
 {
-name = _corner.leftserif;
+name = _corner.leftserifLC;
+options = 1;
+origin = (1,2);
+scale = (-1,1);
+type = Corner;
+},
+{
+name = _corner.leftserifLC;
+origin = (1,3);
+type = Corner;
+},
+{
+name = _corner.leftserifLC;
 origin = (0,3);
-scale = (0.7,1);
+type = Corner;
+},
+{
+name = _corner.leftserifLC;
+options = 1;
+origin = (1,0);
+scale = (-1,1);
 type = Corner;
 }
 );
@@ -38678,78 +38595,75 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(571,0,l),
-(571,500,l),
-(503,500,l),
-(503,0,l)
+(558,0,l),
+(558,500,l),
+(490,500,l),
+(490,0,l)
 );
 },
 {
 closed = 1;
 nodes = (
-(231,0,l),
-(231,500,l),
-(163,500,l),
-(163,0,l)
+(218,0,l),
+(218,500,l),
+(150,500,l),
+(150,0,l)
 );
 },
 {
 closed = 1;
 nodes = (
-(540,485,l),
-(540,500,l),
-(202,500,l),
-(202,485,l)
+(527,490,l),
+(527,500,l),
+(189,500,l),
+(189,490,l)
 );
 }
 );
-width = 734;
+width = 708;
 },
 {
 anchors = (
 {
 name = bottomright;
-pos = (740,0);
+pos = (727,0);
 }
 );
 hints = (
 {
-name = _corner.leftserif;
-options = 1;
-origin = (0,0);
-scale = (-0.7,1);
-type = Corner;
-},
-{
-name = _corner.leftserif;
-origin = (0,1);
-scale = (0.7,1);
-type = Corner;
-},
-{
-name = _corner.leftserif;
+name = _corner.leftserifLC;
 options = 1;
 origin = (1,2);
-scale = (-0.7,1);
+scale = (-1,1);
 type = Corner;
 },
 {
-name = _corner.leftserif;
+name = _corner.leftserifLC;
 origin = (1,3);
-scale = (0.7,1);
 type = Corner;
 },
 {
-name = _corner.leftserif;
+name = _corner.leftserifLC;
 options = 1;
 origin = (1,0);
-scale = (-0.7,1);
+scale = (-1,1);
 type = Corner;
 },
 {
-name = _corner.leftserif;
+name = _corner.leftserifLC;
 origin = (0,3);
-scale = (0.7,1);
+type = Corner;
+},
+{
+name = _corner.leftserifLC;
+options = 1;
+origin = (0,0);
+scale = (-1,1);
+type = Corner;
+},
+{
+name = _corner.leftserifLC;
+origin = (0,1);
 type = Corner;
 }
 );
@@ -38758,78 +38672,75 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(611,0,l),
-(611,500,l),
-(503,500,l),
-(503,0,l)
+(598,0,l),
+(598,500,l),
+(490,500,l),
+(490,0,l)
 );
 },
 {
 closed = 1;
 nodes = (
-(271,0,l),
-(271,500,l),
-(163,500,l),
-(163,0,l)
+(258,0,l),
+(258,500,l),
+(150,500,l),
+(150,0,l)
 );
 },
 {
 closed = 1;
 nodes = (
-(559,485,l),
-(559,500,l),
-(213,500,l),
-(213,485,l)
+(546,485,l),
+(546,500,l),
+(200,500,l),
+(200,485,l)
 );
 }
 );
-width = 774;
+width = 748;
 },
 {
 anchors = (
 {
 name = bottomright;
-pos = (869,0);
+pos = (857,0);
 }
 );
 hints = (
 {
-name = _corner.leftserif;
-options = 1;
-origin = (1,2);
-scale = (-0.7,1);
-type = Corner;
-},
-{
-name = _corner.leftserif;
-origin = (1,3);
-scale = (0.7,1);
-type = Corner;
-},
-{
-name = _corner.leftserif;
+name = _corner.leftserifLC;
 options = 1;
 origin = (0,0);
-scale = (-0.7,1);
+scale = (-1,1);
 type = Corner;
 },
 {
-name = _corner.leftserif;
+name = _corner.leftserifLC;
 origin = (0,1);
-scale = (0.7,1);
 type = Corner;
 },
 {
-name = _corner.leftserif;
-origin = (0,3);
-scale = (0.7,1);
+name = _corner.leftserifLC;
+options = 1;
+origin = (1,2);
+scale = (-1,1);
 type = Corner;
 },
 {
-name = _corner.leftserif;
+name = _corner.leftserifLC;
+origin = (1,3);
+type = Corner;
+},
+{
+name = _corner.leftserifLC;
 options = 1;
 origin = (1,0);
-scale = (-0.7,1);
+scale = (-1,1);
+type = Corner;
+},
+{
+name = _corner.leftserifLC;
+origin = (0,3);
 type = Corner;
 }
 );
@@ -38838,78 +38749,75 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(680,0,l),
-(680,500,l),
-(532,500,l),
-(532,0,l)
+(668,0,l),
+(668,500,l),
+(520,500,l),
+(520,0,l)
 );
 },
 {
 closed = 1;
 nodes = (
-(310,0,l),
-(310,500,l),
-(162,500,l),
-(162,0,l)
+(298,0,l),
+(298,500,l),
+(150,500,l),
+(150,0,l)
 );
 },
 {
 closed = 1;
 nodes = (
-(619,485,l),
-(619,500,l),
-(241,500,l),
-(241,485,l)
+(607,480,l),
+(607,500,l),
+(229,500,l),
+(229,480,l)
 );
 }
 );
-width = 842;
+width = 818;
 },
 {
 anchors = (
 {
 name = bottomright;
-pos = (920,0);
+pos = (829,0);
 }
 );
 hints = (
 {
-name = _corner.leftserif;
-options = 1;
-origin = (1,2);
-scale = (-0.7,1);
-type = Corner;
-},
-{
-name = _corner.leftserif;
-origin = (1,3);
-scale = (0.7,1);
-type = Corner;
-},
-{
-name = _corner.leftserif;
-options = 1;
-origin = (1,0);
-scale = (-0.7,1);
-type = Corner;
-},
-{
-name = _corner.leftserif;
+name = _corner.leftserifLC;
 options = 1;
 origin = (0,0);
-scale = (-0.7,1);
+scale = (-1,1);
 type = Corner;
 },
 {
-name = _corner.leftserif;
+name = _corner.leftserifLC;
 origin = (0,1);
-scale = (0.7,1);
 type = Corner;
 },
 {
-name = _corner.leftserif;
+name = _corner.leftserifLC;
 origin = (0,3);
-scale = (0.7,1);
+type = Corner;
+},
+{
+name = _corner.leftserifLC;
+options = 1;
+origin = (1,0);
+scale = (-1,1);
+type = Corner;
+},
+{
+name = _corner.leftserifLC;
+origin = (1,3);
+type = Corner;
+},
+{
+name = _corner.leftserifLC;
+options = 1;
+origin = (1,2);
+scale = (-1,1);
 type = Corner;
 }
 );
@@ -38918,32 +38826,32 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(710,0,l),
-(710,500,l),
-(542,500,l),
-(542,0,l)
+(699,0,l),
+(699,500,l),
+(531,500,l),
+(531,0,l)
 );
 },
 {
 closed = 1;
 nodes = (
-(329,0,l),
-(329,500,l),
-(161,500,l),
-(161,0,l)
+(318,0,l),
+(318,500,l),
+(150,500,l),
+(150,0,l)
 );
 },
 {
 closed = 1;
 nodes = (
-(643,485,l),
-(643,500,l),
-(252,500,l),
-(252,485,l)
+(632,480,l),
+(632,500,l),
+(241,500,l),
+(241,480,l)
 );
 }
 );
-width = 871;
+width = 849;
 }
 );
 metricLeft = "=100";
@@ -39089,7 +38997,7 @@ unicode = 1089;
 {
 color = 5;
 glyphname = "te-cy";
-lastChange = "2026-06-29 01:34:37 +0000";
+lastChange = "2026-06-30 09:02:12 +0000";
 layers = (
 {
 anchors = (
@@ -39108,16 +39016,15 @@ pos = (320,500);
 );
 hints = (
 {
-name = _corner.leftserif;
+name = _corner.leftserifLC;
 options = 1;
 origin = (0,0);
-scale = (-0.7,1);
+scale = (-1,1);
 type = Corner;
 },
 {
-name = _corner.leftserif;
+name = _corner.leftserifLC;
 origin = (0,3);
-scale = (0.7,1);
 type = Corner;
 }
 );
@@ -39190,16 +39097,15 @@ pos = (344,500);
 );
 hints = (
 {
-name = _corner.leftserif;
+name = _corner.leftserifLC;
 options = 1;
 origin = (0,0);
-scale = (-0.7,1);
+scale = (-1,1);
 type = Corner;
 },
 {
-name = _corner.leftserif;
+name = _corner.leftserifLC;
 origin = (0,3);
-scale = (0.7,1);
 type = Corner;
 }
 );
@@ -39272,16 +39178,15 @@ pos = (356,500);
 );
 hints = (
 {
-name = _corner.leftserif;
+name = _corner.leftserifLC;
 options = 1;
 origin = (0,0);
-scale = (-0.7,1);
+scale = (-1,1);
 type = Corner;
 },
 {
-name = _corner.leftserif;
+name = _corner.leftserifLC;
 origin = (0,3);
-scale = (0.7,1);
 type = Corner;
 }
 );
@@ -39341,7 +39246,7 @@ width = 711;
 anchors = (
 {
 name = bottom;
-pos = (364,0);
+pos = (363,0);
 },
 {
 name = bottomright;
@@ -39349,21 +39254,20 @@ pos = (706,0);
 },
 {
 name = top;
-pos = (364,500);
+pos = (363,500);
 }
 );
 hints = (
 {
-name = _corner.leftserif;
+name = _corner.leftserifLC;
 options = 1;
 origin = (0,0);
-scale = (-0.7,1);
+scale = (-1,1);
 type = Corner;
 },
 {
-name = _corner.leftserif;
+name = _corner.leftserifLC;
 origin = (0,3);
-scale = (0.7,1);
 type = Corner;
 }
 );
@@ -39381,39 +39285,39 @@ nodes = (
 {
 closed = 1;
 nodes = (
-(122,431,o),
-(166,482,o),
-(277,482,c),
-(100,482,l),
-(100,320,l)
+(122,429,o),
+(166,480,o),
+(277,480,c),
+(100,480,l),
+(100,318,l)
 );
 },
 {
 closed = 1;
 nodes = (
-(301,482,l),
+(301,480,l),
 (301,500,l),
 (100,500,l),
-(100,482,l)
+(100,480,l)
 );
 },
 {
 closed = 1;
 nodes = (
-(626,482,l),
-(441,482,l),
-(558,482,o),
-(601,430,o),
-(626,320,c)
+(626,480,l),
+(441,480,l),
+(558,480,o),
+(601,428,o),
+(626,318,c)
 );
 },
 {
 closed = 1;
 nodes = (
-(626,482,l),
+(626,480,l),
 (626,500,l),
 (418,500,l),
-(418,482,l)
+(418,480,l)
 );
 }
 );
@@ -39493,34 +39397,32 @@ unicode = 1091;
 {
 color = 5;
 glyphname = "ef-cy";
-lastChange = "2026-06-29 01:34:37 +0000";
+lastChange = "2026-06-30 09:03:59 +0000";
 layers = (
 {
 hints = (
 {
-name = _corner.leftserif;
-options = 1;
-origin = (2,0);
-scale = (-0.6,1);
-type = Corner;
-},
-{
-name = _corner.leftserif;
+name = _corner.leftserifLC;
 origin = (2,1);
-scale = (0.6,1);
 type = Corner;
 },
 {
-name = _corner.leftserif;
+name = _corner.leftserifLC;
 options = 1;
 origin = (2,2);
-scale = (-0.6,1);
+scale = (-1,1);
 type = Corner;
 },
 {
-name = _corner.leftserif;
+name = _corner.leftserifLC;
+options = 1;
+origin = (2,0);
+scale = (-1,1);
+type = Corner;
+},
+{
+name = _corner.leftserifLC;
 origin = (2,3);
-scale = (0.6,1);
 type = Corner;
 }
 );
@@ -39587,29 +39489,27 @@ width = 690;
 {
 hints = (
 {
-name = _corner.leftserif;
+name = _corner.leftserifLC;
 options = 1;
 origin = (2,0);
-scale = (-0.6,1);
+scale = (-1,1);
 type = Corner;
 },
 {
-name = _corner.leftserif;
+name = _corner.leftserifLC;
+origin = (2,3);
+type = Corner;
+},
+{
+name = _corner.leftserifLC;
 origin = (2,1);
-scale = (0.6,1);
 type = Corner;
 },
 {
-name = _corner.leftserif;
+name = _corner.leftserifLC;
 options = 1;
 origin = (2,2);
-scale = (-0.6,1);
-type = Corner;
-},
-{
-name = _corner.leftserif;
-origin = (2,3);
-scale = (0.6,1);
+scale = (-1,1);
 type = Corner;
 }
 );
@@ -39676,29 +39576,27 @@ width = 780;
 {
 hints = (
 {
-name = _corner.leftserif;
-options = 1;
-origin = (2,0);
-scale = (-0.6,1);
-type = Corner;
-},
-{
-name = _corner.leftserif;
+name = _corner.leftserifLC;
 origin = (2,1);
-scale = (0.6,1);
 type = Corner;
 },
 {
-name = _corner.leftserif;
+name = _corner.leftserifLC;
 options = 1;
 origin = (2,2);
-scale = (-0.6,1);
+scale = (-1,1);
 type = Corner;
 },
 {
-name = _corner.leftserif;
+name = _corner.leftserifLC;
+options = 1;
+origin = (2,0);
+scale = (-1,1);
+type = Corner;
+},
+{
+name = _corner.leftserifLC;
 origin = (2,3);
-scale = (0.6,1);
 type = Corner;
 }
 );
@@ -39715,15 +39613,15 @@ nodes = (
 (677,528,o),
 (499,528,cs),
 (442,528,l),
-(442,506,l),
-(499,506,ls),
-(587,506,o),
+(442,509,l),
+(499,509,ls),
+(587,509,o),
 (630,454,o),
 (630,350,cs),
 (626,254,o),
-(583,206,o),
-(498,206,cs),
-(442,206,l),
+(583,203,o),
+(498,203,cs),
+(442,203,l),
 (442,183,l)
 );
 },
@@ -39731,15 +39629,15 @@ nodes = (
 closed = 1;
 nodes = (
 (423,183,l),
-(423,206,l),
-(367,206,ls),
-(282,206,o),
+(423,203,l),
+(367,203,ls),
+(282,203,o),
 (239,254,o),
 (235,350,cs),
 (235,454,o),
-(278,506,o),
-(366,506,cs),
-(423,506,l),
+(278,509,o),
+(366,509,cs),
+(423,509,l),
 (423,528,l),
 (366,528,ls),
 (188,528,o),
@@ -39765,29 +39663,27 @@ width = 865;
 {
 hints = (
 {
-name = _corner.leftserif;
-options = 1;
-origin = (2,0);
-scale = (-0.6,1);
-type = Corner;
-},
-{
-name = _corner.leftserif;
+name = _corner.leftserifLC;
 origin = (2,1);
-scale = (0.6,1);
 type = Corner;
 },
 {
-name = _corner.leftserif;
+name = _corner.leftserifLC;
 options = 1;
 origin = (2,2);
-scale = (-0.6,1);
+scale = (-1,1);
 type = Corner;
 },
 {
-name = _corner.leftserif;
+name = _corner.leftserifLC;
+options = 1;
+origin = (2,0);
+scale = (-1,1);
+type = Corner;
+},
+{
+name = _corner.leftserifLC;
 origin = (2,3);
-scale = (0.6,1);
 type = Corner;
 }
 );
@@ -39957,40 +39853,37 @@ unicode = 1093;
 {
 color = 5;
 glyphname = "tse-cy";
-lastChange = "2026-06-29 01:34:54 +0000";
+lastChange = "2026-06-30 09:05:50 +0000";
 layers = (
 {
 hints = (
 {
-name = _corner.leftserif;
-origin = (2,3);
-scale = (0.7,1);
+name = _corner.leftserifLC;
+origin = (0,1);
 type = Corner;
 },
 {
-name = _corner.leftserif;
-options = 1;
-origin = (2,2);
-scale = (-0.7,1);
-type = Corner;
-},
-{
-name = _corner.leftserif;
-origin = (2,1);
-scale = (0.7,1);
-type = Corner;
-},
-{
-name = _corner.leftserif;
+name = _corner.leftserifLC;
 options = 1;
 origin = (0,2);
-scale = (-0.7,1);
+scale = (-1,1);
 type = Corner;
 },
 {
-name = _corner.leftserif;
-origin = (0,1);
-scale = (0.7,1);
+name = _corner.leftserifLC;
+origin = (2,1);
+type = Corner;
+},
+{
+name = _corner.leftserifLC;
+options = 1;
+origin = (2,2);
+scale = (-1,1);
+type = Corner;
+},
+{
+name = _corner.leftserifLC;
+origin = (2,3);
 type = Corner;
 }
 );
@@ -39999,75 +39892,72 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(551,0,l),
-(551,500,l),
-(483,500,l),
-(483,0,l)
+(538,0,l),
+(538,500,l),
+(470,500,l),
+(470,0,l)
 );
 },
 {
 closed = 1;
 nodes = (
-(643,0,l),
-(643,10,l),
-(198,10,l),
-(198,0,l)
+(630,0,l),
+(630,10,l),
+(185,10,l),
+(185,0,l)
 );
 },
 {
 closed = 1;
 nodes = (
-(231,0,l),
-(231,500,l),
-(163,500,l),
-(163,0,l)
+(218,0,l),
+(218,500,l),
+(150,500,l),
+(150,0,l)
 );
 },
 {
 closed = 1;
 nodes = (
-(643,0,l),
-(520,0,l),
-(596,0,o),
-(628,-64,o),
-(643,-141,c)
+(630,0,l),
+(507,0,l),
+(583,0,o),
+(615,-64,o),
+(630,-141,c)
 );
 }
 );
-width = 743;
+width = 730;
 },
 {
 hints = (
 {
-name = _corner.leftserif;
-options = 1;
-origin = (2,2);
-scale = (-0.7,1);
+name = _corner.leftserifLC;
+origin = (0,1);
 type = Corner;
 },
 {
-name = _corner.leftserif;
-origin = (2,3);
-scale = (0.7,1);
-type = Corner;
-},
-{
-name = _corner.leftserif;
-origin = (2,1);
-scale = (0.7,1);
-type = Corner;
-},
-{
-name = _corner.leftserif;
+name = _corner.leftserifLC;
 options = 1;
 origin = (0,2);
-scale = (-0.7,1);
+scale = (-1,1);
 type = Corner;
 },
 {
-name = _corner.leftserif;
-origin = (0,1);
-scale = (0.7,1);
+name = _corner.leftserifLC;
+origin = (2,1);
+type = Corner;
+},
+{
+name = _corner.leftserifLC;
+options = 1;
+origin = (2,2);
+scale = (-1,1);
+type = Corner;
+},
+{
+name = _corner.leftserifLC;
+origin = (2,3);
 type = Corner;
 }
 );
@@ -40076,75 +39966,72 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(561,0,l),
-(561,500,l),
-(453,500,l),
-(453,0,l)
+(548,0,l),
+(548,500,l),
+(440,500,l),
+(440,0,l)
 );
 },
 {
 closed = 1;
 nodes = (
-(650,0,l),
-(650,15,l),
-(203,15,l),
-(203,0,l)
+(637,0,l),
+(637,15,l),
+(190,15,l),
+(190,0,l)
 );
 },
 {
 closed = 1;
 nodes = (
-(271,0,l),
-(271,500,l),
-(163,500,l),
-(163,0,l)
+(258,0,l),
+(258,500,l),
+(150,500,l),
+(150,0,l)
 );
 },
 {
 closed = 1;
 nodes = (
-(650,0,l),
-(510,0,l),
-(596,0,o),
-(632,-64,o),
-(650,-152,c)
+(637,0,l),
+(497,0,l),
+(583,0,o),
+(619,-64,o),
+(637,-152,c)
 );
 }
 );
-width = 750;
+width = 737;
 },
 {
 hints = (
 {
-name = _corner.leftserif;
-options = 1;
-origin = (2,2);
-scale = (-0.7,1);
-type = Corner;
-},
-{
-name = _corner.leftserif;
-origin = (2,3);
-scale = (0.7,1);
-type = Corner;
-},
-{
-name = _corner.leftserif;
+name = _corner.leftserifLC;
 origin = (0,1);
-scale = (0.7,1);
 type = Corner;
 },
 {
-name = _corner.leftserif;
+name = _corner.leftserifLC;
 options = 1;
 origin = (0,2);
-scale = (-0.7,1);
+scale = (-1,1);
 type = Corner;
 },
 {
-name = _corner.leftserif;
+name = _corner.leftserifLC;
 origin = (2,1);
-scale = (0.7,1);
+type = Corner;
+},
+{
+name = _corner.leftserifLC;
+options = 1;
+origin = (2,2);
+scale = (-1,1);
+type = Corner;
+},
+{
+name = _corner.leftserifLC;
+origin = (2,3);
 type = Corner;
 }
 );
@@ -40153,75 +40040,72 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(610,0,l),
-(610,500,l),
-(462,500,l),
-(462,0,l)
+(598,0,l),
+(598,500,l),
+(450,500,l),
+(450,0,l)
 );
 },
 {
 closed = 1;
 nodes = (
-(698,0,l),
-(698,20,l),
-(207,20,l),
-(207,0,l)
+(686,0,l),
+(686,20,l),
+(195,20,l),
+(195,0,l)
 );
 },
 {
 closed = 1;
 nodes = (
-(310,0,l),
-(310,500,l),
-(162,500,l),
-(162,0,l)
+(298,0,l),
+(298,500,l),
+(150,500,l),
+(150,0,l)
 );
 },
 {
 closed = 1;
 nodes = (
-(698,0,l),
-(544,0,l),
-(638,0,o),
-(677,-67,o),
-(698,-163,c)
+(686,0,l),
+(532,0,l),
+(626,0,o),
+(665,-67,o),
+(686,-163,c)
 );
 }
 );
-width = 798;
+width = 786;
 },
 {
 hints = (
 {
-name = _corner.leftserif;
-origin = (2,3);
-scale = (0.7,1);
+name = _corner.leftserifLC;
+origin = (0,1);
 type = Corner;
 },
 {
-name = _corner.leftserif;
-options = 1;
-origin = (2,2);
-scale = (-0.7,1);
-type = Corner;
-},
-{
-name = _corner.leftserif;
-origin = (2,1);
-scale = (0.7,1);
-type = Corner;
-},
-{
-name = _corner.leftserif;
+name = _corner.leftserifLC;
 options = 1;
 origin = (0,2);
-scale = (-0.7,1);
+scale = (-1,1);
 type = Corner;
 },
 {
-name = _corner.leftserif;
-origin = (0,1);
-scale = (0.7,1);
+name = _corner.leftserifLC;
+origin = (2,1);
+type = Corner;
+},
+{
+name = _corner.leftserifLC;
+options = 1;
+origin = (2,2);
+scale = (-1,1);
+type = Corner;
+},
+{
+name = _corner.leftserifLC;
+origin = (2,3);
 type = Corner;
 }
 );
@@ -40230,42 +40114,42 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(629,0,l),
-(629,500,l),
-(461,500,l),
-(461,0,l)
+(618,0,l),
+(618,500,l),
+(450,500,l),
+(450,0,l)
 );
 },
 {
 closed = 1;
 nodes = (
-(716,0,l),
-(716,23,l),
-(208,23,l),
-(208,0,l)
+(705,0,l),
+(705,23,l),
+(197,23,l),
+(197,0,l)
 );
 },
 {
 closed = 1;
 nodes = (
-(329,0,l),
-(329,500,l),
-(161,500,l),
-(161,0,l)
+(318,0,l),
+(318,500,l),
+(150,500,l),
+(150,0,l)
 );
 },
 {
 closed = 1;
 nodes = (
-(716,0,l),
-(555,0,l),
-(653,0,o),
-(694,-69,o),
-(716,-168,c)
+(705,0,l),
+(544,0,l),
+(642,0,o),
+(683,-69,o),
+(705,-168,c)
 );
 }
 );
-width = 816;
+width = 805;
 }
 );
 metricLeft = "=100";
@@ -40275,7 +40159,7 @@ unicode = 1094;
 {
 color = 5;
 glyphname = "che-cy";
-lastChange = "2026-06-29 01:34:37 +0000";
+lastChange = "2026-06-30 09:06:22 +0000";
 layers = (
 {
 anchors = (
@@ -40318,10 +40202,10 @@ nodes = (
 {
 closed = 1;
 nodes = (
-(507,-2,l),
+(507,0,l),
 (507,500,l),
 (439,500,l),
-(439,-2,l)
+(439,0,l)
 );
 }
 );
@@ -40418,10 +40302,10 @@ nodes = (
 {
 closed = 1;
 nodes = (
-(555,1,l),
+(555,0,l),
 (555,500,l),
 (407,500,l),
-(407,1,l)
+(407,0,l)
 );
 }
 );
@@ -40468,10 +40352,10 @@ nodes = (
 {
 closed = 1;
 nodes = (
-(567,2,l),
+(567,0,l),
 (567,500,l),
 (399,500,l),
-(399,2,l)
+(399,0,l)
 );
 }
 );
@@ -40483,70 +40367,66 @@ unicode = 1095;
 {
 color = 5;
 glyphname = "sha-cy";
-lastChange = "2026-06-29 01:34:54 +0000";
+lastChange = "2026-06-30 09:08:46 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
-pos = (487,0);
+pos = (474,0);
 },
 {
 name = top;
-pos = (487,500);
+pos = (474,500);
 }
 );
 hints = (
 {
-name = _corner.leftserif;
-options = 1;
-origin = (0,0);
-scale = (-0.7,1);
-type = Corner;
-},
-{
-name = _corner.leftserif;
-origin = (1,3);
-scale = (0.7,1);
-type = Corner;
-},
-{
-name = _corner.leftserif;
-origin = (0,1);
-scale = (0.7,1);
-type = Corner;
-},
-{
-name = _corner.leftserif;
-options = 1;
-origin = (0,2);
-scale = (-0.7,1);
-type = Corner;
-},
-{
-name = _corner.leftserif;
-origin = (3,1);
-scale = (0.7,1);
-type = Corner;
-},
-{
-name = _corner.leftserif;
-options = 1;
-origin = (3,2);
-scale = (-0.7,1);
-type = Corner;
-},
-{
-name = _corner.leftserif;
-origin = (1,1);
-scale = (0.7,1);
-type = Corner;
-},
-{
-name = _corner.leftserif;
+name = _corner.leftserifLC;
 options = 1;
 origin = (1,2);
-scale = (-0.7,1);
+scale = (-1,1);
+type = Corner;
+},
+{
+name = _corner.leftserifLC;
+origin = (1,1);
+type = Corner;
+},
+{
+name = _corner.leftserifLC;
+origin = (3,1);
+type = Corner;
+},
+{
+name = _corner.leftserifLC;
+options = 1;
+origin = (3,2);
+scale = (-1,1);
+type = Corner;
+},
+{
+name = _corner.leftserifLC;
+origin = (0,1);
+type = Corner;
+},
+{
+name = _corner.leftserifLC;
+options = 1;
+origin = (0,2);
+scale = (-1,1);
+type = Corner;
+},
+{
+name = _corner.leftserifLC;
+origin = (1,3);
+type = Corner;
+},
+{
+name = _corner.leftserifLC;
+options = 1;
+origin = (0,0);
+scale = (-1,1);
 type = Corner;
 }
 );
@@ -40555,104 +40435,100 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(811,0,l),
-(811,500,l),
-(743,500,l),
-(743,0,l)
+(798,0,l),
+(798,500,l),
+(730,500,l),
+(730,0,l)
 );
 },
 {
 closed = 1;
 nodes = (
-(231,0,l),
-(231,500,l),
-(163,500,l),
-(163,0,l)
+(218,0,l),
+(218,500,l),
+(150,500,l),
+(150,0,l)
 );
 },
 {
 closed = 1;
 nodes = (
-(790,0,l),
-(790,10,l),
-(185,10,l),
-(185,0,l)
+(777,0,l),
+(777,10,l),
+(172,10,l),
+(172,0,l)
 );
 },
 {
 closed = 1;
 nodes = (
-(521,0,l),
-(521,500,l),
-(453,500,l),
-(453,0,l)
+(508,0,l),
+(508,500,l),
+(440,500,l),
+(440,0,l)
 );
 }
 );
-width = 974;
+width = 948;
 },
 {
 anchors = (
 {
 name = bottom;
-pos = (527,0);
+pos = (514,0);
 },
 {
 name = top;
-pos = (527,500);
+pos = (514,500);
 }
 );
 hints = (
 {
-name = _corner.leftserif;
-origin = (0,1);
-scale = (0.7,1);
-type = Corner;
-},
-{
-name = _corner.leftserif;
-options = 1;
-origin = (0,2);
-scale = (-0.7,1);
-type = Corner;
-},
-{
-name = _corner.leftserif;
-origin = (3,1);
-scale = (0.7,1);
-type = Corner;
-},
-{
-name = _corner.leftserif;
-options = 1;
-origin = (3,2);
-scale = (-0.7,1);
-type = Corner;
-},
-{
-name = _corner.leftserif;
+name = _corner.leftserifLC;
 origin = (1,1);
-scale = (0.7,1);
 type = Corner;
 },
 {
-name = _corner.leftserif;
+name = _corner.leftserifLC;
 options = 1;
 origin = (1,2);
-scale = (-0.7,1);
+scale = (-1,1);
 type = Corner;
 },
 {
-name = _corner.leftserif;
+name = _corner.leftserifLC;
+origin = (3,1);
+type = Corner;
+},
+{
+name = _corner.leftserifLC;
+options = 1;
+origin = (3,2);
+scale = (-1,1);
+type = Corner;
+},
+{
+name = _corner.leftserifLC;
+origin = (0,1);
+type = Corner;
+},
+{
+name = _corner.leftserifLC;
+options = 1;
+origin = (0,2);
+scale = (-1,1);
+type = Corner;
+},
+{
+name = _corner.leftserifLC;
 origin = (1,3);
-scale = (0.7,1);
 type = Corner;
 },
 {
-name = _corner.leftserif;
+name = _corner.leftserifLC;
 options = 1;
 origin = (0,0);
-scale = (-0.7,1);
+scale = (-1,1);
 type = Corner;
 }
 );
@@ -40661,104 +40537,100 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(891,0,l),
-(891,500,l),
-(783,500,l),
-(783,0,l)
+(878,0,l),
+(878,500,l),
+(770,500,l),
+(770,0,l)
 );
 },
 {
 closed = 1;
 nodes = (
-(271,0,l),
-(271,500,l),
-(163,500,l),
-(163,0,l)
+(258,0,l),
+(258,500,l),
+(150,500,l),
+(150,0,l)
 );
 },
 {
 closed = 1;
 nodes = (
-(870,0,l),
-(870,15,l),
-(229,15,l),
-(229,0,l)
+(857,0,l),
+(857,15,l),
+(216,15,l),
+(216,0,l)
 );
 },
 {
 closed = 1;
 nodes = (
-(576,0,l),
-(576,500,l),
-(478,500,l),
-(478,0,l)
+(563,0,l),
+(563,500,l),
+(465,500,l),
+(465,0,l)
 );
 }
 );
-width = 1054;
+width = 1028;
 },
 {
 anchors = (
 {
 name = bottom;
-pos = (571,0);
+pos = (559,0);
 },
 {
 name = top;
-pos = (571,500);
+pos = (559,500);
 }
 );
 hints = (
 {
-name = _corner.leftserif;
-origin = (0,1);
-scale = (0.7,1);
-type = Corner;
-},
-{
-name = _corner.leftserif;
-options = 2;
-origin = (0,2);
-scale = (-0.7,1);
-type = Corner;
-},
-{
-name = _corner.leftserif;
-origin = (3,1);
-scale = (0.7,1);
-type = Corner;
-},
-{
-name = _corner.leftserif;
-options = 2;
-origin = (3,2);
-scale = (-0.7,1);
-type = Corner;
-},
-{
-name = _corner.leftserif;
+name = _corner.leftserifLC;
 origin = (1,1);
-scale = (0.7,1);
 type = Corner;
 },
 {
-name = _corner.leftserif;
-options = 2;
+name = _corner.leftserifLC;
+options = 1;
 origin = (1,2);
-scale = (-0.7,1);
+scale = (-1,1);
 type = Corner;
 },
 {
-name = _corner.leftserif;
+name = _corner.leftserifLC;
+origin = (3,1);
+type = Corner;
+},
+{
+name = _corner.leftserifLC;
+options = 1;
+origin = (3,2);
+scale = (-1,1);
+type = Corner;
+},
+{
+name = _corner.leftserifLC;
+origin = (0,1);
+type = Corner;
+},
+{
+name = _corner.leftserifLC;
+options = 1;
+origin = (0,2);
+scale = (-1,1);
+type = Corner;
+},
+{
+name = _corner.leftserifLC;
+origin = (1,3);
+type = Corner;
+},
+{
+name = _corner.leftserifLC;
 options = 1;
 origin = (0,0);
-scale = (-0.7,1);
-type = Corner;
-},
-{
-name = _corner.leftserif;
-origin = (1,3);
-scale = (0.7,1);
+scale = (-1,1);
 type = Corner;
 }
 );
@@ -40767,104 +40639,100 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(980,0,l),
-(980,500,l),
-(832,500,l),
-(832,0,l)
+(968,0,l),
+(968,500,l),
+(820,500,l),
+(820,0,l)
 );
 },
 {
 closed = 1;
 nodes = (
-(310,0,l),
-(310,500,l),
-(162,500,l),
-(162,0,l)
+(298,0,l),
+(298,500,l),
+(150,500,l),
+(150,0,l)
 );
 },
 {
 closed = 1;
 nodes = (
-(930,0,l),
-(930,20,l),
-(195,20,l),
-(195,0,l)
+(918,0,l),
+(918,20,l),
+(183,20,l),
+(183,0,l)
 );
 },
 {
 closed = 1;
 nodes = (
-(640,0,l),
-(640,500,l),
-(502,500,l),
-(502,0,l)
+(628,0,l),
+(628,500,l),
+(490,500,l),
+(490,0,l)
 );
 }
 );
-width = 1142;
+width = 1118;
 },
 {
 anchors = (
 {
 name = bottom;
-pos = (592,0);
+pos = (581,0);
 },
 {
 name = top;
-pos = (592,500);
+pos = (581,500);
 }
 );
 hints = (
 {
-name = _corner.leftserif;
-options = 1;
-origin = (0,0);
-scale = (-0.7,1);
-type = Corner;
-},
-{
-name = _corner.leftserif;
-origin = (1,3);
-scale = (0.7,1);
-type = Corner;
-},
-{
-name = _corner.leftserif;
-origin = (0,1);
-scale = (0.7,1);
-type = Corner;
-},
-{
-name = _corner.leftserif;
-options = 1;
-origin = (0,2);
-scale = (-0.7,1);
-type = Corner;
-},
-{
-name = _corner.leftserif;
-origin = (3,1);
-scale = (0.7,1);
-type = Corner;
-},
-{
-name = _corner.leftserif;
-options = 1;
-origin = (3,2);
-scale = (-0.7,1);
-type = Corner;
-},
-{
-name = _corner.leftserif;
+name = _corner.leftserifLC;
 origin = (1,1);
-scale = (0.7,1);
 type = Corner;
 },
 {
-name = _corner.leftserif;
+name = _corner.leftserifLC;
 options = 1;
 origin = (1,2);
-scale = (-0.7,1);
+scale = (-1,1);
+type = Corner;
+},
+{
+name = _corner.leftserifLC;
+origin = (3,1);
+type = Corner;
+},
+{
+name = _corner.leftserifLC;
+options = 1;
+origin = (3,2);
+scale = (-1,1);
+type = Corner;
+},
+{
+name = _corner.leftserifLC;
+origin = (0,1);
+type = Corner;
+},
+{
+name = _corner.leftserifLC;
+options = 1;
+origin = (0,2);
+scale = (-1,1);
+type = Corner;
+},
+{
+name = _corner.leftserifLC;
+options = 1;
+origin = (0,0);
+scale = (-1,1);
+type = Corner;
+},
+{
+name = _corner.leftserifLC;
+origin = (1,3);
 type = Corner;
 }
 );
@@ -40873,41 +40741,41 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(1022,0,l),
-(1022,500,l),
-(854,500,l),
-(854,0,l)
+(1011,0,l),
+(1011,500,l),
+(843,500,l),
+(843,0,l)
 );
 },
 {
 closed = 1;
 nodes = (
-(329,0,l),
-(329,500,l),
-(161,500,l),
-(161,0,l)
+(318,0,l),
+(318,500,l),
+(150,500,l),
+(150,0,l)
 );
 },
 {
 closed = 1;
 nodes = (
-(962,0,l),
-(962,23,l),
-(187,23,l),
-(187,0,l)
+(951,0,l),
+(951,23,l),
+(176,23,l),
+(176,0,l)
 );
 },
 {
 closed = 1;
 nodes = (
-(670,0,l),
-(670,500,l),
-(513,500,l),
-(513,0,l)
+(659,0,l),
+(659,500,l),
+(502,500,l),
+(502,0,l)
 );
 }
 );
-width = 1183;
+width = 1161;
 }
 );
 metricLeft = "=100";
@@ -40917,7 +40785,7 @@ unicode = 1096;
 {
 color = 5;
 glyphname = "shcha-cy";
-lastChange = "2026-06-29 01:34:37 +0000";
+lastChange = "2026-06-30 09:11:01 +0000";
 layers = (
 {
 layerId = "E5DC9139-DBE8-45F6-BCD0-0641ED917C2C";
@@ -40925,11 +40793,11 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(905,0,l),
-(766,0,l),
-(852,0,o),
-(886,-64,o),
-(904,-152,c)
+(848,0,l),
+(709,0,l),
+(795,0,o),
+(829,-64,o),
+(847,-152,c)
 );
 },
 {
@@ -40944,11 +40812,11 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(1005,0,l),
-(865,0,l),
-(951,0,o),
-(987,-64,o),
-(1005,-152,c)
+(928,0,l),
+(788,0,l),
+(874,0,o),
+(910,-64,o),
+(928,-152,c)
 );
 },
 {
@@ -40963,11 +40831,11 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(1094,0,l),
-(954,0,l),
-(1040,0,o),
-(1077,-64,o),
-(1095,-152,c)
+(1018,0,l),
+(878,0,l),
+(964,0,o),
+(1001,-64,o),
+(1019,-152,c)
 );
 },
 {
@@ -40982,11 +40850,11 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(1140,0,l),
-(1000,0,l),
-(1086,0,o),
-(1123,-64,o),
-(1141,-152,c)
+(1061,0,l),
+(921,0,l),
+(1007,0,o),
+(1044,-64,o),
+(1062,-152,c)
 );
 },
 {
@@ -41273,7 +41141,7 @@ unicode = 1100;
 {
 color = 5;
 glyphname = "yeru-cy";
-lastChange = "2026-06-29 01:34:37 +0000";
+lastChange = "2026-06-30 09:11:57 +0000";
 layers = (
 {
 anchors = (
@@ -41294,7 +41162,7 @@ pos = (556,0);
 ref = idotless;
 }
 );
-width = 824;
+width = 924;
 },
 {
 anchors = (
@@ -41315,7 +41183,7 @@ pos = (556,0);
 ref = idotless;
 }
 );
-width = 864;
+width = 964;
 },
 {
 anchors = (
@@ -41336,7 +41204,7 @@ pos = (584,0);
 ref = idotless;
 }
 );
-width = 932;
+width = 1032;
 },
 {
 anchors = (
@@ -41357,7 +41225,7 @@ pos = (595,0);
 ref = idotless;
 }
 );
-width = 963;
+width = 1063;
 }
 );
 unicode = 1099;
@@ -41695,7 +41563,7 @@ unicode = 1098;
 {
 color = 5;
 glyphname = "e-cy";
-lastChange = "2026-06-29 01:34:37 +0000";
+lastChange = "2026-06-30 09:12:40 +0000";
 layers = (
 {
 anchors = (
@@ -41912,10 +41780,10 @@ nodes = (
 {
 closed = 1;
 nodes = (
-(464,244,l),
-(464,260,l),
-(127,260,l),
-(127,244,l)
+(464,246,l),
+(464,262,l),
+(127,262,l),
+(127,246,l)
 );
 },
 {
@@ -41998,10 +41866,10 @@ nodes = (
 {
 closed = 1;
 nodes = (
-(474,244,l),
-(474,261,l),
-(125,261,l),
-(125,244,l)
+(474,247,l),
+(474,264,l),
+(125,264,l),
+(125,247,l)
 );
 },
 {
@@ -42383,7 +42251,7 @@ unicode = 1102;
 {
 color = 5;
 glyphname = "ya-cy";
-lastChange = "2026-06-29 01:34:37 +0000";
+lastChange = "2026-06-30 09:14:39 +0000";
 layers = (
 {
 anchors = (
@@ -42394,16 +42262,15 @@ pos = (313,500);
 );
 hints = (
 {
-name = _corner.leftserif;
+name = _corner.leftserifLC;
 options = 1;
 origin = (1,0);
-scale = (-0.7,1);
+scale = (-1,1);
 type = Corner;
 },
 {
-name = _corner.leftserif;
+name = _corner.leftserifLC;
 origin = (1,3);
-scale = (0.7,1);
 type = Corner;
 }
 );
@@ -42493,16 +42360,15 @@ pos = (338,500);
 );
 hints = (
 {
-name = _corner.leftserif;
+name = _corner.leftserifLC;
 options = 1;
 origin = (1,0);
-scale = (-0.7,1);
+scale = (-1,1);
 type = Corner;
 },
 {
-name = _corner.leftserif;
+name = _corner.leftserifLC;
 origin = (1,3);
-scale = (0.7,1);
 type = Corner;
 }
 );
@@ -42592,16 +42458,15 @@ pos = (380,500);
 );
 hints = (
 {
-name = _corner.leftserif;
+name = _corner.leftserifLC;
 options = 1;
 origin = (1,0);
-scale = (-0.7,1);
+scale = (-1,1);
 type = Corner;
 },
 {
-name = _corner.leftserif;
+name = _corner.leftserifLC;
 origin = (1,3);
-scale = (0.7,1);
 type = Corner;
 }
 );
@@ -42691,16 +42556,15 @@ pos = (399,500);
 );
 hints = (
 {
-name = _corner.leftserif;
+name = _corner.leftserifLC;
 options = 1;
 origin = (1,0);
-scale = (-0.7,1);
+scale = (-1,1);
 type = Corner;
 },
 {
-name = _corner.leftserif;
+name = _corner.leftserifLC;
 origin = (1,3);
-scale = (0.7,1);
 type = Corner;
 }
 );
@@ -42710,9 +42574,9 @@ shapes = (
 closed = 1;
 nodes = (
 (153,-30,o),
-(332,-23,o),
+(333,-23,o),
 (314,88,cs),
-(294,201,o),
+(295,201,o),
 (285,257,o),
 (438,253,c),
 (419,269,l),
@@ -42720,7 +42584,7 @@ nodes = (
 (389,267,o),
 (358,267,cs),
 (152,265,o),
-(166,161,o),
+(168,161,o),
 (172,97,cs),
 (176,31,o),
 (165,2,o),
@@ -42747,7 +42611,7 @@ nodes = (
 (296,305,o),
 (296,376,cs),
 (296,467,o),
-(354,489,o),
+(345,489,o),
 (377,489,cs),
 (504,489,l),
 (504,500,l),
